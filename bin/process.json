@@ -1,0 +1,9 @@
+{
+  "apps" : [
+  {
+     "name" : "factory-monitor",
+     "script" : "./bin/index.js",
+     "watch": true
+  }
+  ]
+}
